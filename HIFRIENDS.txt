@@ -2,4 +2,9 @@ HI FRIENDS HI LOL
 
 Hi. Did you know that there is male farts? female farts? and animal farts?
 
+<<<<<<< HEAD
 Hiiii fweeennndssss.
+=======
+
+lol THIS IS MY JANICE IMPRESSION XD
+>>>>>>> f78f92c8a19be3ce76dddd9edec7301233ad4846
